@@ -25,7 +25,7 @@ Untuk mengubah branch utama menjadi main menggunakan perintah:
 
 ## Mengirim Hasil Manipulasi ke Repo Github (Push)
 
-Untuk melakukan push, gunakan peritnah:
+Untuk melakukan push, gunakan perintah:
 
         $ git status
         On branch main
