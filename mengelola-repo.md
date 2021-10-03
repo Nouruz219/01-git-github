@@ -55,3 +55,15 @@ Untuk melakukan push, gunakan perintah:
         Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
         To https://github.com/Nouruz219/01-git-github.git
          * [new branch]      main -> main
+
+## Singkronasi
+
+Untuk melakukukan singkronisasi repo ke komputer lokal menggunakan perintah:
+
+        $ git pull
+
+## Membatalkan Commit Terakhir
+
+Untuk membatalkan commit terakhir saat terjadi kesalahan, maka menggunkan perintah:
+
+        $ git revert HEAD
