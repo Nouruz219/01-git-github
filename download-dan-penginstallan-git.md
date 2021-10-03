@@ -1,4 +1,5 @@
 # Download GIT
+Disni akan dijelaskan bagaimana cara mendownload dan proses penginstallan Git versi Windows
 
 ## Langkah-Langkah Mendownload GIT
 
