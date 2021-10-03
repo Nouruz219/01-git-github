@@ -1,14 +1,15 @@
 # Download GIT
+
 Disni akan dijelaskan bagaimana cara mendownload dan proses penginstallan Git versi Windows
 
 ## Langkah-Langkah Mendownload GIT
 
-* Sebelum menggunakan GIT, anda harus terlebih dahulu mendownload GIT di [Sini](https://git-scm.com/downloads)
+* Sebelum menggunakan GIT, anda harus terlebih dahulu mendownload GIT [di sini](https://git-scm.com/downloads)
 * Sesuaikan sistem operasi yang akan anda gunakan sebelum memulai proses mendownload
 * Ada tiga jenis Sistem Operasi yang dapat menggunakan GIT yaitu Windows, Linux, dan macOS
 * Untuk GIT versi windows sendiri memiliki versi yang 32 bit dan 64 bit, sesuaikan dengan versi OS Windows yang anda miliki
 
-## Langkah-Langkah Penginstallan GIT
+## Langkah-Langkah Penginstalan GIT
 
 ![01-screenshoot](/images/Screenshot_181.png)
 
@@ -69,3 +70,14 @@ Disni akan dijelaskan bagaimana cara mendownload dan proses penginstallan Git ve
 * Terakhir anda dapat memulai proses Installasi Git
 
 ![12-screenshoot](/images/Screenshot_193.png)
+
+## Konfigurasi Git
+
+* Untuk konfigurasi dapat langsung membuka Git Bash dan gunakan perintah
+
+    $ git config --global user.name "Nama Anda di GitHub"
+    $ git config --global user.email email@domain.tld '''
+
+* Untuk melihat konfigurasi, dapat menggunakan perintah
+
+    $ git config --list
