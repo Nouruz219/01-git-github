@@ -8,4 +8,50 @@ Saat menggunakan Git, kita akan dimintai untuk otentikasi. Nah, untuk proses ote
 
 ## Clone Repository
 
-1. Lakukan Clone repository menggunakan perintah
+Lakukan Clone repository menggunakan perintah:
+
+        $ git clone https://github.com/Nouruz219/01-git-github.git
+        Cloning into '01-git-github'...
+        warning: You appear to have cloned an empty repository.
+
+Akan muncul peringatan bahwa repo yang anda clone kosong, abaikan saja karena repo akan kita kelola melalui komputer lokal
+
+## Mengubah Branch Master Menjadi Main
+
+Untuk mengubah branch utama menjadi main menggunakan perintah:
+
+        $ cd 01-git-github
+        $ git branch -m main
+
+## Mengirim Hasil Manipulasi ke Repo Github (Push)
+
+Untuk melakukan push, gunakan peritnah:
+
+        $ git status
+        On branch main
+
+        No commits yet
+
+        Untracked files:
+          (use "git add <file>..." to include in what will be committed)
+                download-dan-penginstallan-git.md
+                images/
+
+        nothing added to commit but untracked files present (use "git add" to track)
+
+        $ git add -A
+        $ git commit -m "Add: download-dan-penginstallan-git.md"
+        [main (root-commit) d89e7a2] Add: download-dan-penginstallan-git.md
+         2 files changed, 14 insertions(+)
+         create mode 100644 download-dan-penginstallan-git.md
+         create mode 100644 images/Screenshot_181.png
+
+        $ git push origin main
+        Enumerating objects: 5, done.
+        Counting objects: 100% (5/5), done.
+        Delta compression using up to 12 threads
+        Compressing objects: 100% (4/4), done.
+        Writing objects: 100% (5/5), 18.70 KiB | 9.35 MiB/s, done.
+        Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+        To https://github.com/Nouruz219/01-git-github.git
+         * [new branch]      main -> main
