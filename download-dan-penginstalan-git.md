@@ -75,9 +75,9 @@ Disni akan dijelaskan bagaimana cara mendownload dan proses penginstallan Git ve
 
 * Untuk konfigurasi dapat langsung membuka Git Bash dan gunakan perintah
 
-    $ git config --global user.name "Nama Anda di GitHub"
-    $ git config --global user.email email@domain.tld '''
+     $ git config --global user.name "Nama Anda di GitHub"
+     $ git config --global user.email email@domain.tld '''
 
 * Untuk melihat konfigurasi, dapat menggunakan perintah
 
-    $ git config --list
+     $ git config --list
