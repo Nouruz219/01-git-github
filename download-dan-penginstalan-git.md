@@ -83,3 +83,6 @@ Untuk melihat konfigurasi, dapat menggunakan perintah:
 
 
         $ git config --list
+        
+
+[ [Kembali](README.md) ]

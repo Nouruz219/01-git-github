@@ -67,3 +67,6 @@ Untuk melakukukan singkronisasi repo ke komputer lokal menggunakan perintah:
 Untuk membatalkan commit terakhir saat terjadi kesalahan, maka menggunkan perintah:
 
         $ git revert HEAD
+
+
+[ [Kembali](README.md) ]
