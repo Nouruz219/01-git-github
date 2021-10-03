@@ -17,4 +17,4 @@ Sebelum anda membuat repository anda di github, anda harus memiliki akun Github 
 
 * Setelah berhasil dibuat, halaman awal repository akan ditampilkan
 * Untuk menambah, mengedit, dan menghapus file di repo, dapat menggunakan text editor seperti visual studio code dengan melakukan clone repo terlebih dahulu ke komputer lokal
-* Sementara untuk membuat repository organisasi hampir sama seperti repository di akun sendiri, perbedaanya adalah 'owner' dari repo adalah organisasi itu sendiri
+* Sementara untuk membuat repository organisasi hampir sama seperti repository di akun sendiri, perbedaanya adalah **owner** dari repo adalah organisasi itu sendiri
