@@ -11,11 +11,60 @@
 
 ![01-screenshoot](/images/Screenshot_181.png)
 
-* Pada awal proses penginstallan GIT, akan ditampilkan Documnet License dari GIT
+* Pada awal proses penginstallan Git, akan ditampilkan Documnet License dari Git
 * Klik **Next** untuk melanjutkan
 
 ![02-screenshoot](/images/Screenshot_182.png)
 
-* Pilih lokasi penginstallan aplikasi GIT di komputer anda
+* Pilih lokasi penginstallan aplikasi Git di komputer anda
 * Jika ingin mengubah lokasi penginstallan dapat mengklik browse
 * Klik **Next** untuk melanjutkan
+
+![03-screenshoot](/images/Screenshot_183.png)
+
+* Kemudian pilih komponen tambahan untuk install Git
+* Fungsi komponen ini adalah untuk memperlancar penggunaan Git dan mendukung file dengan kapasitas besar
+* Klik **Next** untuk melanjutkan
+
+![04-screenshoot](/images/Screenshot_184.png)
+
+* Anda dapat mengganti nama aplikasi Git sesuai kemauan anda
+* Namun disarankan untuk tetap menggunakan Git untuk kemudahan saat akan mencari aplikasinya di laptop anda
+* Klik **Next** untuk melanjutkan
+
+![05-screenshoot](/images/Screenshot_185.png)
+
+* Anda dapat menentukan file editor yang akan anda gunakan
+* Klik **Next** untuk melanjutkan
+
+![06-screenshoot](/images/Screenshot_186.png)
+
+* Kemudian anda harus mengatur path environment
+* Path Environment berfungsi untuk mengeksekusi perintah perintah pada GIT
+* Klik **Next** untuk melanjutkan
+
+![07-screenshoot](/images/Screenshot_192.png)
+
+* Pilih Use OpenSSH, aplikasi default SSH dari Git
+* Klik **Next** untuk melanjutkan
+
+![08-screenshoot](/images/Screenshot_189.png)
+
+* Pilih Checkout Windows-style, commit Unix-style line endings
+* Klik **Next** untuk melanjutkan
+
+![09-screenshoot](/images/Screenshot_190.png)
+
+* Anda bisa menggunakan Command Prompt atau MinTTY sebagai emulator terminal
+* Klik **Next** untuk melanjutkan
+
+![10-screenshoot](/images/Screenshot_191.png)
+
+* Untuk opsi ekstra, anda dapat memilih Enable File System Caching dan Enable Git Credential Manager
+* Klik **Next** untuk melanjutkan
+
+![11-screenshoot](/images/Screenshot_193.png)
+
+* Terakhir anda dapat memulai proses Installasi Git
+
+![12-screenshoot](/images/Screenshot_193.png)
