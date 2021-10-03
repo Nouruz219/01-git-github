@@ -9,6 +9,13 @@
 
 ## Langkah-Langkah Penginstallan GIT
 
-![01-screenshoot](/images/Screenshot_181)
+![01-screenshoot](/images/Screenshot_181.png)
 
-* Pada awal proses penginstallan GIT, akan ditampilkan Documnet License dari GIT, Klik **Next** untuk melanjutkan
+* Pada awal proses penginstallan GIT, akan ditampilkan Documnet License dari GIT
+* Klik **Next** untuk melanjutkan
+
+![02-screenshoot](/images/Screenshot_182.png)
+
+* Pilih lokasi penginstallan aplikasi GIT di komputer anda
+* Jika ingin mengubah lokasi penginstallan dapat mengklik browse
+* Klik **Next** untuk melanjutkan
